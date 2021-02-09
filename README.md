@@ -49,8 +49,8 @@ Besides coding I'm:
 
 If you want to get in touch to talk about software or my projects.
 
-<a href="https://www.linkedin.com/in/bvtrinh/"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5" /> </a>
 <a href="mailto:tylervtrinh@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/Gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=EA4335" /> </a>
+<a href="https://www.linkedin.com/in/bvtrinh/"><img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5" /> </a>
 
 <!--
 This readme is inspired by:
