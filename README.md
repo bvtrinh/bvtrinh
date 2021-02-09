@@ -12,6 +12,7 @@ Besides coding I'm:
 
 ## Tech + Tools
 
+<p>
   <img alt="Python" src="https://img.shields.io/badge/Python-informational?style=flat-square&logo=python&logoColor=white&color=3776AB" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/PHP-informational?style=flat-square&logo=php&logoColor=white&color=777BB4" />
@@ -31,14 +32,16 @@ Besides coding I'm:
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/Postman-informational?style=flat-square&logo=postman&logoColor=white&color=FF6C37" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
 
 ## Skills I would like to learn
 
+<p>
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-informational?style=flat-square&logo=next.js&logoColor=white&color=black" />
   <img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-informational?style=flat-square&logo=gatsby&logoColor=white&color=663399" />
   <img alt="Redux" src="https://img.shields.io/badge/Redux-informational?style=flat-square&logo=redux&logoColor=white&color=764ABC" />
   <img alt="Github Actions" src="https://img.shields.io/badge/Github_Actions-informational?style=flat-square&logo=github-actions&logoColor=white&color=2088FF" />
-
+</p>
 ## Contact
 
 If you want to get in touch to talk about software or my projects.
