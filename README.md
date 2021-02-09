@@ -12,7 +12,7 @@ Besides coding I'm:
 - 🏋️ working out from home
 - 🎮 trying to find time to play PoE
 
-## Tech + Tools
+## Tech + Tools I use
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-informational?style=flat-square&logo=python&logoColor=white&color=3776AB" />
