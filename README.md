@@ -1,6 +1,7 @@
 # Hey there! 👋
 
-I'm Tyler, a computer science student studying at Simon Fraser University. Currently I am on co-op working as a Full Stack Developer at [FABCYCLE](https://www.fabcycle.shop/).
+I'm Tyler, a computer science student studying at Simon Fraser University.
+Currently I am on co-op working as a Full Stack Developer at [FABCYCLE](https://www.fabcycle.shop/).
 
 Besides coding I'm:
 
@@ -42,6 +43,7 @@ Besides coding I'm:
   <img alt="Redux" src="https://img.shields.io/badge/Redux-informational?style=flat-square&logo=redux&logoColor=white&color=764ABC" />
   <img alt="Github Actions" src="https://img.shields.io/badge/Github_Actions-informational?style=flat-square&logo=github-actions&logoColor=white&color=2088FF" />
 </p>
+
 ## Contact
 
 If you want to get in touch to talk about software or my projects.
