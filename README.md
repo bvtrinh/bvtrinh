@@ -1,6 +1,7 @@
 # Hey there! 👋
 
 I'm Tyler, a computer science student studying at Simon Fraser University.
+
 Currently I am on co-op working as a Full Stack Developer at [FABCYCLE](https://www.fabcycle.shop/).
 
 Besides coding I'm:
