@@ -7,7 +7,7 @@ Currently I am on co-op working as a Full Stack Developer at [FABCYCLE](https://
 Besides coding I'm:
 
 - 🛹 learning how to longboard
-- 📕 reading Tim Ferris' books (right now I'm on `The 4-Hour Body`)
+- 📕 reading Tim Ferris books (right now I'm on `The 4-Hour Body`)
 - 🍳 slowly learning how to cook
 - 🏋️ working out from home
 - 🎮 trying to find time to play PoE
