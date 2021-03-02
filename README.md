@@ -25,6 +25,7 @@ Besides coding I'm:
   <img alt="Selenium" src="https://img.shields.io/badge/Selenium-informational?style=flat-square&logo=selenium&logoColor=white&color=43B02A" />
   <img alt="CodeIgniter" src="https://img.shields.io/badge/CodeIgniter-informational?style=flat-square&logo=codeigniter&logoColor=white&color=EF4223" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-informational?style=flat-square&logo=bootstrap&logoColor=white&color=7952B3" />
+  <img alt="Chakra UI" src="https://img.shields.io/badge/-Chakra_UI-319795?style=flat-square&logo=chakra-ui&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css" src="https://img.shields.io/badge/CSS-informational?style=flat-square&logo=css3&logoColor=white&color=1572B6" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
@@ -34,6 +35,7 @@ Besides coding I'm:
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/Postman-informational?style=flat-square&logo=postman&logoColor=white&color=FF6C37" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Github Actions" src="https://img.shields.io/badge/Github_Actions-informational?style=flat-square&logo=github-actions&logoColor=white&color=2088FF" />
 </p>
 
 ## Skills I would like to learn
@@ -42,7 +44,7 @@ Besides coding I'm:
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-informational?style=flat-square&logo=next.js&logoColor=white&color=black" />
   <img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-informational?style=flat-square&logo=gatsby&logoColor=white&color=663399" />
   <img alt="Redux" src="https://img.shields.io/badge/Redux-informational?style=flat-square&logo=redux&logoColor=white&color=764ABC" />
-  <img alt="Github Actions" src="https://img.shields.io/badge/Github_Actions-informational?style=flat-square&logo=github-actions&logoColor=white&color=2088FF" />
+
 </p>
 
 ## Contact
