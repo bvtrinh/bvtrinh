@@ -2,7 +2,7 @@
 
 I'm Tyler, a computer science student studying at Simon Fraser University.
 
-Currently I am on co-op working as a Full Stack Developer at [FABCYCLE](https://www.fabcycle.shop/).
+Currently I am on co-op working as a Junior Web Application Developer at [SFU](https://sfu.ca/).
 
 Besides coding I'm:
 
@@ -38,14 +38,14 @@ Besides coding I'm:
   <img alt="Github Actions" src="https://img.shields.io/badge/Github_Actions-informational?style=flat-square&logo=github-actions&logoColor=white&color=2088FF" />
 </p>
 
-## Skills I would like to learn
+<!-- ## Skills I would like to learn
 
 <p>
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-informational?style=flat-square&logo=next.js&logoColor=white&color=black" />
   <img alt="Gatsby" src="https://img.shields.io/badge/Gatsby-informational?style=flat-square&logo=gatsby&logoColor=white&color=663399" />
   <img alt="Redux" src="https://img.shields.io/badge/Redux-informational?style=flat-square&logo=redux&logoColor=white&color=764ABC" />
 
-</p>
+</p> -->
 
 ## Contact
 
