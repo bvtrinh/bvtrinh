@@ -7,7 +7,7 @@ Currently I am on co-op working as a Junior Web Application Developer at [SFU](h
 Besides coding I'm:
 
 - 🛹 learning how to longboard
-- 📕 reading Tim Ferris books (right now I'm on `The 4-Hour Body`)
+- 📕 reading `How to Talk to Anyone` by Leil Lowndes
 - 🍳 slowly learning how to cook
 - 🏋️ working out from home
 - 🎮 trying to find time to play PoE
