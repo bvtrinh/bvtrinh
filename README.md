@@ -10,7 +10,7 @@ Besides coding I'm:
 - 📕 reading `How to Talk to Anyone` by Leil Lowndes
 - 🍳 slowly learning how to cook
 - 🏋️ working out from home
-- 🎮 trying to find time to play TFT
+- 🎮 trying to find time to play D3
 
 ## Tech + Tools I use
 
