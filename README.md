@@ -2,12 +2,12 @@
 
 I'm Tyler, a computer science student studying at Simon Fraser University.
 
-Currently I am on co-op working as a Junior Web Application Developer at [SFU](https://sfu.ca/).
+Currently I am on co-op working as a Agile Developer at [SAP](https://www.sap.com/canada/).
 
 Besides coding I'm:
 
 - 🛹 learning how to longboard
-- 📕 reading `The Subtle Art of Not Giving a F*ck` by Mark Manson
+- 📕 reading `The Last Wish` by Andrzej Sapkowski
 - 🍳 slowly learning how to cook
 - 🏋️ working out from home
 - 🎮 trying to find time to play video games
