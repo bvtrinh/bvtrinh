@@ -7,7 +7,7 @@ Currently I am on co-op working as an Agile Developer at [SAP](https://www.sap.c
 Besides coding I'm:
 
 - 🛹 learning how to longboard
-- 📕 reading `The Last Wish` by Andrzej Sapkowski
+- 📕 reading `Atomic Habits` by James Clear
 - 🍳 slowly learning how to cook
 - 🏋️ working out from home
 - 🎮 trying to find time to play video games
