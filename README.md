@@ -2,7 +2,7 @@
 
 I'm Tyler, a computer science student studying at Simon Fraser University.
 
-Currently I am on co-op working as an Agile Developer at [SAP](https://www.sap.com/canada/).
+Currently I am a full-time Software Developer at [SAP](https://www.sap.com/canada/).
 
 Besides coding I'm:
 
