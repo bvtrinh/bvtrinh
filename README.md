@@ -1,13 +1,11 @@
 # Hey there! 👋
 
-I'm Tyler, a computer science student studying at Simon Fraser University.
-
-Currently I am a full-time Software Developer at [SAP](https://www.sap.com/canada/).
+I'm Tyler, a full-time Software Developer at [SAP](https://www.sap.com/canada/).
 
 Besides coding I'm:
 
 - 🛹 learning how to longboard
-- 📕 reading `Atomic Habits` by James Clear
+- 📕 reading `Radical Acceptance` by Tara Brach
 - 🍳 slowly learning how to cook
 - 🏋️ working out from home
 - 🎮 trying to find time to play video games
