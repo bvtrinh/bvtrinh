@@ -5,7 +5,7 @@ I'm Tyler, a full-time Software Developer at [SAP](https://www.sap.com/canada/).
 Besides coding I'm:
 
 - 🏂 learning how to snowboard
-- 📕 reading `Radical Acceptance` by Tara Brach
+- 📕 reading `Outlive` by Peter Attia
 - 🍳 slowly learning how to cook
 - 🏋️ working out from home
 - 🎮 trying to find time to play video games
